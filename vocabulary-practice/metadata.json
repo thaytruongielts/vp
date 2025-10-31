@@ -1,0 +1,5 @@
+{
+  "name": "Vocabulary Practice",
+  "description": "An interactive web application to practice English vocabulary. The app provides a Vietnamese word, and the student types the English translation. An AI-powered scoring system provides immediate feedback on spelling accuracy.",
+  "requestFramePermissions": []
+}
